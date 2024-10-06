@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Application areas of AI/ML, MERN and C#**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://www.ahmedrazaqureshi.in)
+- 👨‍💻 All of my projects are available at my github and [Portfolio](https://www.ahmedrazaqureshi.in)
 
 - 💬 Ask me about **C, C++, DSA, Core Computer Science (DBMS,OS,CN)**
 
