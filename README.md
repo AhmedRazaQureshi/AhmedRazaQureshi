@@ -4,7 +4,7 @@
 
 - [View my coding profile here!](https://ahmedrazaqureshi.github.io/github_profile_helper/)
 
-
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lbJWq1TmUT67ExidZjI3jbuuVlTIiKth/view?usp=sharing)
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnU1cnkzcTRyYTl3dG5pdTFqbjlyYnJlcG9kc2tqeXBsZngwa3BrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.webp">
 
@@ -17,8 +17,6 @@
 - 💬 Ask me about **C, C++, DSA, Core Computer Science (DBMS,OS,CN)**
 
 - 📫 How to reach me **cseAhmedRaza@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lbJWq1TmUT67ExidZjI3jbuuVlTIiKth/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
